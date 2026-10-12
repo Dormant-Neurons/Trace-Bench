@@ -131,7 +131,7 @@ h1 {
 .signal i:nth-child(3n) { height: 70px; } .signal i:nth-child(4n) { height: 36px; }
 .signal i:nth-child(5n) { height: 92px; } .signal i:nth-child(7n) { height: 54px; }
 
-.motivation { padding: 140px 0 115px; }
+.motivation { padding: 140px 0 115px; scroll-margin-top: 100px; }
 .motivation-heading { max-width: 760px; margin-bottom: 42px; }
 .motivation-heading .section-number { margin-bottom: 17px; }
 .motivation-heading h2 { font-size: clamp(2.1rem, 4vw, 3.7rem); }
